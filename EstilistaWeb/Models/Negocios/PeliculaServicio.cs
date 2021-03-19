@@ -17,5 +17,24 @@ namespace EstilistaWeb.Models.Negocios
 
             return pelicula;
         }
+
+        public List<Pelicula> ObtenerListadoPelicula()
+        {
+            var pelicula = new Pelicula();
+            pelicula.Nombre = "Avenger";
+            pelicula.Duracion = "205";
+            pelicula.Pais = "USA";
+
+            var pelicula2 = new Pelicula();
+            pelicula2.Nombre = "Batman";
+            pelicula2.Duracion = "230";
+            pelicula2.Pais = "USA";
+
+            var listaPelicula = new List<Pelicula>();
+            listaPelicula.Add(pelicula);
+            listaPelicula.Add(pelicula2);
+
+            return listaPelicula;
+        }
     }
 }

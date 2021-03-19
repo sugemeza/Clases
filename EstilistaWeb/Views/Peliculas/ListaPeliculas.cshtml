@@ -1,0 +1,24 @@
+﻿@model List<EstilistaWeb.Models.Entidades.Pelicula>
+
+<h1>Lista de peliculas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Duración</th>
+            <th>País</th>
+        </tr>
+        
+    </thead>
+    <tbody>
+        @foreach (var pelicula in Model)
+        {
+        <tr>
+            <td>@pelicula.Nombre</td>
+            <td>@pelicula.Duracion</td>
+            <td>@pelicula.Pais</td>
+        </tr>
+        }
+    </tbody>
+</table>

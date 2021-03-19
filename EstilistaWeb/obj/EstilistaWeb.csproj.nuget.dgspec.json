@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sugeis Meza\\source\\repos\\EstilistaWeb\\EstilistaWeb.csproj": {}
+    "C:\\Users\\Sugeis Meza\\OneDrive\\Documentos\\Clases\\EstilistaWeb\\EstilistaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sugeis Meza\\source\\repos\\EstilistaWeb\\EstilistaWeb.csproj": {
+    "C:\\Users\\Sugeis Meza\\OneDrive\\Documentos\\Clases\\EstilistaWeb\\EstilistaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sugeis Meza\\source\\repos\\EstilistaWeb\\EstilistaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Sugeis Meza\\OneDrive\\Documentos\\Clases\\EstilistaWeb\\EstilistaWeb.csproj",
         "projectName": "EstilistaWeb",
-        "projectPath": "C:\\Users\\Sugeis Meza\\source\\repos\\EstilistaWeb\\EstilistaWeb.csproj",
+        "projectPath": "C:\\Users\\Sugeis Meza\\OneDrive\\Documentos\\Clases\\EstilistaWeb\\EstilistaWeb.csproj",
         "packagesPath": "C:\\Users\\Sugeis Meza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sugeis Meza\\source\\repos\\EstilistaWeb\\obj\\",
+        "outputPath": "C:\\Users\\Sugeis Meza\\OneDrive\\Documentos\\Clases\\EstilistaWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sugeis Meza\\AppData\\Roaming\\NuGet\\NuGet.Config",

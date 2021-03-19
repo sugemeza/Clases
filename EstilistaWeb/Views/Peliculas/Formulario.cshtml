@@ -1,0 +1,8 @@
+﻿<h1>Formulario peliculas</h1>
+<br />
+<form asp-action="formulario" asp-controller="peliculas" method="post">
+    <input type="text" id="nombre" name="nombre" placeholder="Nombre de la pelicula" />
+    <input type="submit" value="Enviar" />
+</form>
+
+<p>@ViewBag.nombre</p>

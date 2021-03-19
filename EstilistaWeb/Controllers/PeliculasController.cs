@@ -24,5 +24,17 @@ namespace EstilistaWeb.Controllers
             var listaPeliculas = peliculaServicio.ObtenerListadoPelicula();
             return View(listaPeliculas);
         }
+
+        [HttpPost]
+        public ActionResult Formulario(string nombre)
+        {
+            ViewBag.nombre = nombre;
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Formulario()
+        {
+            return View();
+        }
     }
 }

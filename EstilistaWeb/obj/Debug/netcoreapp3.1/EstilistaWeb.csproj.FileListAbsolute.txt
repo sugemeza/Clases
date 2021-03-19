@@ -8,7 +8,6 @@ C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreap
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\EstilistaWeb.pdb
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\EstilistaWeb.Views.dll
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\EstilistaWeb.Views.pdb
-C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.csprojAssemblyReference.cache
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.AssemblyInfoInputs.cache
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.AssemblyInfo.cs
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.csproj.CoreCompileInputs.cache
@@ -37,3 +36,18 @@ C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreap
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.csproj.CopyComplete
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\Razor\Views\Peliculas\Index.cshtml.g.cs
 C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\Razor\Views\Peliculas\ListaPeliculas.cshtml.g.cs
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\Razor\Views\Peliculas\Formulario.cshtml.g.cs
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\obj\Debug\netcoreapp3.1\EstilistaWeb.csprojAssemblyReference.cache
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sugeis Meza\OneDrive\Documentos\Clases\EstilistaWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
